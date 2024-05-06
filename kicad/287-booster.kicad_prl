@@ -67,6 +67,12 @@
     "visible_layers": "0013fff_80000001",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "287-booster.kicad_prl",
     "version": 3
