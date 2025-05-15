@@ -1,6 +1,6 @@
-# 286 Booster
+# 287 Booster
 
-![286 booster](shim/286-booster.jpg)
+![287 booster](shim/287-booster.jpg)
 
 This is an interposer which adds a jumper which can be used to select the clock
 divider on a 287 floating point unit. It was designed and open sourced in
